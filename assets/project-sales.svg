@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#07111f"/></linearGradient></defs>
+<rect width="1200" height="760" fill="url(#g)"/>
+<circle cx="1020" cy="80" r="250" fill="#f6c344" opacity=".14"/><circle cx="110" cy="700" r="260" fill="#f6c344" opacity=".08"/>
+<rect x="90" y="105" width="1020" height="550" rx="30" fill="#f7f9fc"/>
+<rect x="90" y="105" width="210" height="550" rx="30" fill="#111d2c"/><rect x="270" y="105" width="30" height="550" fill="#111d2c"/>
+<circle cx="195" cy="175" r="34" fill="#f6c344"/><rect x="142" y="242" width="106" height="14" rx="7" fill="#607189"/><rect x="142" y="278" width="82" height="11" rx="5" fill="#3d4b5e"/>
+<rect x="340" y="150" width="300" height="28" rx="10" fill="#102033"/><rect x="340" y="196" width="210" height="12" rx="6" fill="#a9b5c3"/>
+<g fill="#ffffff" stroke="#dce3ea"><rect x="340" y="245" width="220" height="100" rx="17"/><rect x="580" y="245" width="220" height="100" rx="17"/><rect x="820" y="245" width="220" height="100" rx="17"/></g>
+<g fill="#f6c344"><rect x="370" y="278" width="86" height="16" rx="8"/><rect x="610" y="278" width="70" height="16" rx="8"/><rect x="850" y="278" width="98" height="16" rx="8"/></g>
+<rect x="340" y="375" width="450" height="220" rx="20" fill="#ffffff" stroke="#dce3ea"/><rect x="815" y="375" width="225" height="220" rx="20" fill="#ffffff" stroke="#dce3ea"/>
+<path d="M380 545 L445 490 L510 515 L580 445 L645 470 L735 410" fill="none" stroke="#f6c344" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="927" cy="485" r="72" fill="none" stroke="#e4e9ee" stroke-width="28"/><path d="M927 413 A72 72 0 0 1 990 520" fill="none" stroke="#f6c344" stroke-width="28" stroke-linecap="round"/>
+<text x="340" y="92" font-family="Arial" font-size="34" font-weight="800" fill="#ffffff">SALES DASHBOARD</text><text x="340" y="125" font-family="Arial" font-size="17" fill="#b7c4d2">Power BI • Beginner</text>
+</svg>

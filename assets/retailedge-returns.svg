@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091423"/><stop offset="1" stop-color="#12233b"/></linearGradient><linearGradient id="a"><stop stop-color="#72e4d5"/><stop offset="1" stop-color="#8c80ff"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#g)"/><circle cx="1350" cy="150" r="300" fill="#8c80ff" opacity=".08"/><circle cx="190" cy="800" r="300" fill="#72e4d5" opacity=".06"/>
+<rect x="90" y="80" width="1420" height="740" rx="38" fill="#0d1a2b" stroke="#ffffff" stroke-opacity=".1"/>
+<text x="145" y="170" fill="#9aaabd" font-family="Arial" font-size="28" letter-spacing="5">PORTFOLIO DASHBOARD PAGE</text>
+<text x="145" y="255" fill="#fff" font-family="Arial" font-weight="700" font-size="64">RetailEdge</text>
+<text x="145" y="315" fill="#72e4d5" font-family="Arial" font-size="30">Logistics & Returns</text>
+<g opacity=".95"><rect x="145" y="380" width="300" height="120" rx="24" fill="#13253c"/><rect x="475" y="380" width="300" height="120" rx="24" fill="#13253c"/><rect x="805" y="380" width="300" height="120" rx="24" fill="#13253c"/><rect x="1135" y="380" width="300" height="120" rx="24" fill="#13253c"/></g>
+<rect x="145" y="540" width="805" height="220" rx="24" fill="#13253c"/><rect x="980" y="540" width="455" height="220" rx="24" fill="#13253c"/>
+<path d="M190 700 C320 610 420 720 550 610 S800 660 900 580" fill="none" stroke="url(#a)" stroke-width="10" stroke-linecap="round"/>
+</svg>
